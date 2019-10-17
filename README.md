@@ -2,6 +2,8 @@
 **Proje nasıl çalışır , kodlar ne anlama geliyor ?**
 ----------
 
+![](https://cdn-images-1.medium.com/max/800/1*vMPk-jMnmXsCZ01ZQiVdbg.png)
+
 Bilgisayarınızda Ruby kurulu olmalı. Kurulu değilse aşağıdaki gibi kurulumu yapabilirsiniz. Burada linux kurulumu anlatılacaktır.
 
 **sudo apt-get update**   
