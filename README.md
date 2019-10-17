@@ -1,4 +1,5 @@
 
+**Proje nasıl çalışır , kodlar ne anlama geliyor ?**
 ----------
 
 Bilgisayarınızda Ruby kurulu olmalı. Kurulu değilse aşağıdaki gibi kurulumu yapabilirsiniz. Burada linux kurulumu anlatılacaktır.
